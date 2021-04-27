@@ -12,7 +12,7 @@
 * 🏕 Wild nature and 🐕 enthusiast
 * 💥 In spare time I like to play ⚽ & 🏀 and 🍺 party hard
 * 🏡 Currently located in Subotica (RS) with possibility of moving to Belgrade (RS) or Novi Sad (RS)
-* 📝 Take a look at my <a href="https://drive.google.com/file/d/1-IaWsPG0RLLLGc4xaJanP6oqBTWqZ4J5/view?usp=sharing">Cirriculum Vitae</a> to get more info about my past experience
+* 📝 Take a look at my <a href="https://drive.google.com/file/d/1rfy81kctRUYGMqU5N7DpVP426q7o2IUT/view?usp=sharing">Cirriculum Vitae</a> to get more info about my past experience
 
 
 ## 👨‍💻 Languages and Tools:
