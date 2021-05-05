@@ -8,7 +8,7 @@
 
 * 💻 Junior .NET developer developer
 * 📚 Currently learning Flutter developement
-* 🛠 Experience in System Administration and Computer Repairing Services
+* 🛠 Experienced in System Administration and Computer Repairing Services
 * 🏕 Wild nature and 🐕 enthusiast
 * 💥 In spare time I like to play ⚽ & 🏀 and 🍺 party hard
 * 🏡 Currently located in Subotica (RS) with possibility of moving to Belgrade (RS) or Novi Sad (RS)
