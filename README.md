@@ -6,7 +6,7 @@
 
 ## 📖 About me
 
-* 💻 Junior .NET developer developer
+* 💻 Full Stack .NET developer @Cyrillic Software Inc.
 * 📚 Currently learning Flutter developement
 * 🛠 Experienced in System Administration and Computer Repairing Services
 * 🏕 Wild nature and 🐕 enthusiast
